@@ -39,7 +39,7 @@ The dataset used in this project contains details about:
 
 1. Clone this repository:
    ```sh
-   [git clone https://github.com/yourusername/IPL2023_analysis.git](https://github.com/DhruvBavaliya13/IPL-2023-Auction-Analysis.git)
+   git clone https://github.com/yourusername/IPL2023_analysis.git
    ```
 2. Install dependencies:
    ```sh
